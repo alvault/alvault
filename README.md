@@ -7,7 +7,7 @@
 I'm an experienced Ruby on Rails developer and code enthusiast with great interest in beautifully crafted code. 
 I love projects that challenge my capacities and force me to be creative. 
 
-Big fan of:
+### Big fan of:
 - Ruby
 - Ruby On Rails
 - Rspec
